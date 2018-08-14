@@ -136,7 +136,6 @@ To do so, add a method called `uses_available_letters?` in `adagrams.rb`. This m
 - Returns `true` if every letter in the `input` word is available (in the right quantities) in the `letters_in_hand`
 - Returns `false` if not; if there is a letter in `input` that is not present in the `letters_in_hand` or has too much of compared to the `letters_in_hand`
 
-<!--
 
 ### Wave 3
 
@@ -161,6 +160,8 @@ Name this method `score_word` in `adagrams.rb`. This method should have the foll
 |K                             |   5  |
 |J, X                          |   8  |
 |Q, Z                          |   10 |
+
+<!--
 
 ### Wave 4
 
