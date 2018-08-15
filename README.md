@@ -178,7 +178,6 @@ Add a method called `highest_score_from words` in `adagrams.rb`. This method sho
     - ...unless one word has 10 letters. If the top score is tied between multiple words and one is 10 letters long, choose the one with 10 letters over the one with fewer tiles
     - If the there are multiple words that are the same score and the same length, pick the first one in the supplied list
 
-<!--
 
 ### Optional: Wave 5
 
@@ -198,6 +197,5 @@ There are no unit tests provided for this wave, but there is driver code found i
 
 Nota Bene: The original data for all of the alpha words of the English dictionary was found freely available at [`dwyl/english-word`'s repo](https://github.com/dwyl/english-words), and was modified to only include words under 10 characters.
 
---> 
 ## What Instructors Are Looking For
 Check out the [feedback template](feedback.md) which lists the items instructors will be looking for as they evaluate your project.
